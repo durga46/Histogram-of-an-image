@@ -27,8 +27,8 @@ Display the grayscale image.
 <br>
 
 ## Program:
-# Developed By:DurgaDevi P
-# Register Number:212220230015
+### Developed By:DurgaDevi P
+### Register Number:212220230015
 
 ```python
 # Write your code to find the histogram of gray scale image and color image channels.
