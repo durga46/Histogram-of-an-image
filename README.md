@@ -27,10 +27,11 @@ Display the grayscale image.
 <br>
 
 ## Program:
-### Developed By:DurgaDevi P
-### Register Number:212220230015
-
 ```python
+Developed By:DurgaDevi P
+Register Number:212220230015
+
+
 # Write your code to find the histogram of gray scale image and color image channels.
 import cv2
 import matplotlib.pyplot as plt
