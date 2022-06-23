@@ -72,8 +72,8 @@ cv2.imshow('Equalized Image',equ)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-<br>
-<br>
+
+
 ## Output:
 ### Input Grayscale Image and Color Image
 ![k1](https://user-images.githubusercontent.com/75235704/175230220-44082315-e7eb-4bec-aef5-7ac10494a635.PNG)
