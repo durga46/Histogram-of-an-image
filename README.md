@@ -1,4 +1,4 @@
-## EX.NO : 045
+## EX.NO : 4
 ## Date : 25.04.2022
 # <p align="center"> Histogram and Histogram Equalization of an image</p>
 
@@ -74,16 +74,14 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![output](./static/img/h1.png)
-![output](./static/img/h2.png)
+![k1](https://user-images.githubusercontent.com/75235704/175230220-44082315-e7eb-4bec-aef5-7ac10494a635.PNG)
 <br>
 <br>
 <br>
 <br>
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![output](./static/img/h3.png)
-![output](./static/img/h4.png)
+![k2](https://user-images.githubusercontent.com/75235704/175230248-23e40491-91a0-4a77-8660-ccbe219ab493.PNG)
 <br>
 <br>
 <br>
