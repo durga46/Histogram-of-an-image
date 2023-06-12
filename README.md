@@ -1,5 +1,4 @@
 ## EX.NO : 4
-## Date : 25.04.2022
 # <p align="center"> Histogram and Histogram Equalization of an image</p>
 
 ## Aim
